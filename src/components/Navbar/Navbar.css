@@ -7,6 +7,9 @@
 .navbar .logo {
   width: 150px;
 }
+.navbar .main_logo{
+  width: max(15vw,200px);
+}
 
 .navbar-menu {
   display: flex;
